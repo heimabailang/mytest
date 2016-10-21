@@ -1,15 +1,13 @@
 {
 
     "name":
-"jenner/message_queue",
+"phpvms/mytest",
 
     "description":
-"php
- message queue wrapper",
+"phpvms",
 
     "license":
 "MIT",
  "keywords":
- ["message
- queue"]
+ ["phpvms"]
  }
